@@ -4,7 +4,7 @@
   
   <!-- Visitor Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Popriss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+    <img height="23em" src="https://komarev.com/ghpvc/?username=Popriss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
   </p>
 
   <p>
