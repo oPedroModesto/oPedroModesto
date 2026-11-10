@@ -46,8 +46,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=oPedroModesto&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=oPedroModesto&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=oPedroModesto&layout=compact&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=oPedroModesto&layout=compact&langs_count=5&theme=dark_github)
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=oPedroModesto&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=oPedroModesto&layout=compact&langs_count=5&theme=dark_github" alt="GitHub Languages" />
 </div>
 
 ---
