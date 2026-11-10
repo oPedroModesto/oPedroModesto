@@ -46,8 +46,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="200em" src="https://github-stats-extended.vercel.app/api?username=oPedroModesto&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
-  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs?username=oPedroModesto&hide_progress=true&langs_count=6&theme=dark_github" alt="GitHub Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=oPedroModesto&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=oPedroModesto&hide_progress=true&langs_count=6&theme=dark_github" alt="GitHub Languages" />
 </div>
 
 ---
